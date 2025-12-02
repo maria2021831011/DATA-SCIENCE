@@ -1,0 +1,8 @@
+[2025-11-26 19:48:23,859]root-INFO-your input is not valid
+[2025-11-26 19:49:48,864]root-INFO-Can't devide numbers with 0
+[2025-11-26 19:49:58,951]root-INFO-Can't devide numbers with 0
+[2025-11-26 19:50:00,982]root-INFO-Can't devide numbers with 0
+[2025-11-26 19:50:02,102]root-INFO-Can't devide numbers with 0
+[2025-11-26 19:50:03,456]root-INFO-Can't devide numbers with 0
+[2025-11-26 19:50:03,687]root-INFO-Can't devide numbers with 0
+[2025-11-26 19:50:58,579]root-INFO-[Errno 2] No such file or directory: 'files/sample.txt10'
