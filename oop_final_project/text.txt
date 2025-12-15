@@ -1,0 +1,14 @@
+1.mm@gmail.com
+2.123
+3.I am very happy with my results today.
+4.I love learning Artificial Intelligence.
+5.আমি আজ খুব ভালো আছি।
+6.Artificial Intelligence is a branch of computer science that focuses on
+creating intelligent machines capable of performing tasks that normally
+require human intelligence.
+7.She go to university every day.
+8.Learning programming is very important for students.
+
+9.Machine learning and artificial intelligence are transforming healthcare,
+education, and business industries.
+10.Explain Artificial Intelligence in simple words.
