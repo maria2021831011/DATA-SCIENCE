@@ -1,0 +1,3 @@
+pymongo
+pandas 
+mysql-connector-python
